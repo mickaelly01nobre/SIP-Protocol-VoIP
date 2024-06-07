@@ -8,7 +8,7 @@ For this example of the SIP protocol, we will use Asterisk and FreePBX. Asterisk
 while FreePBX is a graphical interface for managing Asterisk. Don't worry, this will be explained in more detail later on.
 
 
-## Lesson 1: Oracle in Ubuntu
+## Lesson 1: Oracle VM VirtualBox in Ubuntu
 
 First, it will be necessary to download Oracle VM VirtualBox, a software that allows you to create and run multiple operating systems on a single physical 
 machine (host), such as Linux, Windows, macOS, Solaris, BSD, among others, without the need to reinstall the main operating system of the computer.
