@@ -1,12 +1,13 @@
 For this example of the SIP protocol, we will use Asterisk and FreePBX. Asterisk is an open-source software that functions as a Private Branch Exchange (PBX), 
 while FreePBX is a graphical interface for managing Asterisk. Don't worry, this will be explained in more detail later on.
 
+
+## Lesson 1: Oracle VirtualBox
+
 First, it will be necessary to download Oracle VM VirtualBox, a software that allows you to create and run multiple operating systems on a single physical 
 machine (host), such as Linux, Windows, macOS, Solaris, BSD, among others, without the need to reinstall the main operating system of the computer.
 
 Step by step to install Oracle VM VirtualBox:
-
-## Lesson 1: Oracle VirtualBox
 
 ### 1.Update your system
 
