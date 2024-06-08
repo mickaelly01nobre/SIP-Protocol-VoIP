@@ -137,6 +137,17 @@ Now, adjust “File Size” to 20 GB. As shown below:
 
 </div>
 
+Look at the block highlighted with a green square and click on it with the right mouse button. Afterwards, click on "Settings". As shown below:
+
+<div align="center">
+
+![7](https://github.com/mickaelly01nobre/SIP-Protocol-VoIP/assets/171987167/a88a8d53-08bf-43fd-834e-8528cff034f0)
+
+
+
+</div>
+
+
 
 
 
