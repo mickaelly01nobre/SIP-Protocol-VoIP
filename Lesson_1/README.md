@@ -147,6 +147,14 @@ Look at the block highlighted with a green square and click on it with the right
 
 </div>
 
+Finally, select "Network" and, in the "Connected to:" field, choose "Board in Bridge mode". Then click "OK" and your virtual machine will be configured.
+
+<div align="center">
+
+![8](https://github.com/mickaelly01nobre/SIP-Protocol-VoIP/assets/171987167/c290565e-1a8d-4c8d-8c07-d72eb0a0378e)
+
+
+</div>
 
 
 
