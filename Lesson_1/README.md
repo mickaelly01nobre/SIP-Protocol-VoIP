@@ -96,3 +96,25 @@ As shown below:
 
 </div>
 
+The next part will be the memory size, which will be allocated 2048. As shown in the figure below:
+
+
+<div align="center">
+ 
+
+![3](https://github.com/mickaelly01nobre/SIP-Protocol-VoIP/assets/171987167/a20597e8-f568-42d6-aabc-0d9b891a9012)
+
+
+</div>
+
+In the next step, the Hard Disk configuration will take place, which is selected "Create a new virtual hard disk now". Exemplified below:
+
+<div align="center">
+ 
+
+![4](https://github.com/mickaelly01nobre/SIP-Protocol-VoIP/assets/171987167/f1baba93-3f9e-4d60-b0e8-3f7a60e2e360)
+
+
+</div>
+
+
