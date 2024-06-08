@@ -68,9 +68,16 @@ sudo apt remove virtualbox-6.1
 
 After installing Oracle VirtualBox, you need to configure the software to create a virtual machine. Follow the following steps:
 
-1.Search "Oracle VirtualBox" in your computer's search bar and open the software.
+1. Search "Oracle VirtualBox" in your computer's search bar and open the software.
 
-2.In the Oracle VirtualBox toolbar, click "Machine".
+2. In the Oracle VirtualBox toolbar, click "Machine".
 
-3.Then select "New" to start creating a new virtual machine.
+3. Then select "New" to start creating a new virtual machine.
 
+As shown in the image below:
+
+<div align="center">
+
+![1](https://github.com/mickaelly01nobre/SIP-Protocol-VoIP/assets/171987167/1afa9220-5a93-4eaf-b6e5-6dc20b4f857e)
+
+</div>
