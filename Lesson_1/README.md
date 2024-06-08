@@ -91,6 +91,8 @@ Then, a new tab will appear with the fields "Name", "Type" and "Version". Fill i
 As shown below:
 
 <div align="center">
+ 
 ![2](https://github.com/mickaelly01nobre/SIP-Protocol-VoIP/assets/171987167/85b4fe0d-3bd4-4be2-bcd4-695e0a96f0e6)
+
 </div>
 
