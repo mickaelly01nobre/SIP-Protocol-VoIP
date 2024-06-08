@@ -128,6 +128,17 @@ Then click on "Expert Mode". As shown:
 
 </div>
 
+Now, adjust “File Size” to 20 GB. As shown below:
+
+<div align="center">
+
+![6](https://github.com/mickaelly01nobre/SIP-Protocol-VoIP/assets/171987167/684b6050-1116-4914-9fd8-680344767c50)
+
+
+</div>
+
+
+
 
 
 
