@@ -7,7 +7,11 @@ It is worth remembering that VoIP, or Voice over Internet Protocol, is a technol
 For this example of the SIP protocol, we will use Asterisk and FreePBX. Asterisk is an open-source software that functions as a Private Branch Exchange (PBX), 
 while FreePBX is a graphical interface for managing Asterisk. Don't worry, this will be explained in more detail later on.
 
+<div align="center">
+  
+![o-que-sao-telefone-voip-](https://github.com/mickaelly01nobre/SIP-Protocol-VoIP/assets/171987167/a5d32027-d5f7-4b64-afd6-288d337f69e5)
 
+</div>
 
 
 
