@@ -66,3 +66,11 @@ sudo apt remove virtualbox-6.1
 
 ## Parte 2 - Configuration
 
+After installing Oracle VirtualBox, you need to configure the software to create a virtual machine. Follow the following steps:
+
+1.Search "Oracle VirtualBox" in your computer's search bar and open the software.
+
+2.In the Oracle VirtualBox toolbar, click "Machine".
+
+3.Then select "New" to start creating a new virtual machine.
+
