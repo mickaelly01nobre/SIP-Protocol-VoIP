@@ -117,4 +117,17 @@ In the next step, the Hard Disk configuration will take place, which is selected
 
 </div>
 
+Then click on "Expert Mode". As shown:
+
+<div align="center">
+ 
+
+![5](https://github.com/mickaelly01nobre/SIP-Protocol-VoIP/assets/171987167/40aba0e4-d126-49fd-9b1a-226bcd7e1539)
+
+
+
+</div>
+
+
+
 
